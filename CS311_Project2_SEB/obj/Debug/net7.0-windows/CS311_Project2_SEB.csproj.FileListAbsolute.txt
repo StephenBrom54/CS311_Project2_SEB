@@ -1,0 +1,16 @@
+C:\Users\steph\source\repos\CS311_Project2_SEB\bin\Debug\net7.0-windows\CS311_Project2_SEB.exe
+C:\Users\steph\source\repos\CS311_Project2_SEB\bin\Debug\net7.0-windows\CS311_Project2_SEB.deps.json
+C:\Users\steph\source\repos\CS311_Project2_SEB\bin\Debug\net7.0-windows\CS311_Project2_SEB.runtimeconfig.json
+C:\Users\steph\source\repos\CS311_Project2_SEB\bin\Debug\net7.0-windows\CS311_Project2_SEB.dll
+C:\Users\steph\source\repos\CS311_Project2_SEB\bin\Debug\net7.0-windows\CS311_Project2_SEB.pdb
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.Form1.resources
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.AssemblyInfo.cs
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.dll
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\refint\CS311_Project2_SEB.dll
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.pdb
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\CS311_Project2_SEB.genruntimeconfig.cache
+C:\Users\steph\source\repos\CS311_Project2_SEB\obj\Debug\net7.0-windows\ref\CS311_Project2_SEB.dll
